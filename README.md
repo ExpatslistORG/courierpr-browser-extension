@@ -2,11 +2,11 @@
 
 The latest press releases on Courierpr.com from the toolbar, plus the newest in five categories picked fresh each time you open it. Click a release to read it on the site.
 
-Works in Chrome, Microsoft Edge and Firefox. This is the full source of the extension published for Courierpr.com.
+Works in Chrome, Microsoft Edge and Firefox. This repo holds the full source.
 
 ## What is a browser extension?
 
-A browser extension is a small add-on that lives in your browser toolbar. Click its icon and a popup opens, so you can use a service without opening its website first. This one is a popup only: it shows a short list and every item opens the real page on Courierpr.com.
+A browser extension is a small add-on in your browser toolbar. Click its icon and a popup opens. This one shows a short list, and each item opens the real page on Courierpr.com.
 
 ## About Courierpr.com
 
